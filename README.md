@@ -1,5 +1,5 @@
 
-![ezgif com-optimize](https://i.pinimg.com/736x/65/d8/a6/65d8a6351da2a160b8f74f0862b7e405.jpg)
+![ezgif com-optimize](https://i.pinimg.com/originals/f9/ea/9e/f9ea9efb690f39daeb1286f7a83c873f.gif)
 <h1 align="center">Hi 👋, I'm J4n0sch</h1>
 <h3 align="center">A Beginner Developer</h3>
 
