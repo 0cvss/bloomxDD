@@ -32,7 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joschi3957&show_icons=true&locale=en&theme=radical" alt="joschi3957" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joschi3957&theme=radical" alt="joschi3957" /></p>
 
 # Contact Me
 [![Discord Presence](https://lanyard.cnrad.dev/api/1252595424192368676)](https://discord.com/users/1252595424192368676)
