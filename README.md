@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/JanoschxD2010" target="blank"><img src="https://img.shields.io/twitter/follow/JanoschxD2010?logo=twitter&style=for-the-badge" alt="JanoschxD2010" /></a> </p>
 
-- 🌱 I’m currently learning **Html, Css, Lua, Python**
+- 🌱 I’m currently learning **Python**
 
 - - 💬 Want to ask me a question? **Join My Discord**
  
