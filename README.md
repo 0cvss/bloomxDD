@@ -1,7 +1,7 @@
 <p align="center">
   <img width="460" height="300" src="https://i.pinimg.com/736x/b8/af/2b/b8af2b89c7be31d2d11ef9df3082d44d.jpg">
 </p>
-<h1 align="center">Hi 👋, I'm Bloom</h1>
+<h1 align="center">Hi 👋, I'm Bloom/0cvss</h1>
 <h3 align="center">A Beginner Developer</h3>
 
 
